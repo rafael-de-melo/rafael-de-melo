@@ -18,6 +18,8 @@
 
 <p align="left">I'm a student in mechatronics and backend development, passionate about expanding my skills in software engineering.<br>Currently, my focus lies in mastering C#, .NET development, and SQL databases. <br>I also have experience and interest in frontend technologies like HTML5 and CSS3.</p>
 
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=rafaelllllllllllll&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
+
 ###
 
 <br clear="both">
